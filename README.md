@@ -1,6 +1,6 @@
 # currency_converter
 
-A new Flutter project.
+It supports all currency with real-time data conversion.
 
 ## Getting Started
 
