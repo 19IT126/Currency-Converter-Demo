@@ -1,5 +1,5 @@
 ## About
-> As the name suggests Currency Converter is an application that helps you to convert between over 90+ international currencies in real-time
+> As the name suggests Currency Converter is an application that helps you to convert over 90+ international currencies in real-time
 
 ## Tools and Technologies
 > Language: Flutter using Dart
